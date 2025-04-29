@@ -1,3 +1,5 @@
+A responsive weather application built with React, JavaScript, CSS, and Axios. It fetches real-time weather data from the OpenWeatherMap API, allowing users to search for current weather conditions by city.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
