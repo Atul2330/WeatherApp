@@ -7,7 +7,7 @@ const Input=()=>{
   const [weatherData,setWeatherData]=useState(null);
   const [error,setError]=useState('');
   const [units,setUnits]=useState('metric')
-  const apiKey='36531e6af6c292ecf4cf0c18f022a79a';
+  const apiKey='YOUR API KEY';
 
   const fetchWeather=async()=>{
     setError('');
